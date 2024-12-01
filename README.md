@@ -32,7 +32,7 @@ This application is a financial analysis and stock prediction tool built with St
    Replace `streamlit_app.py` with the name of your Python file containing the Streamlit code.
 
 3. **Access the Application**
-   Once the application starts, open your web browser and go to the URL displayed in the terminal (typically `http://localhost:8501`).
+   Once the application starts, open your web browser and go to the URL (https://stock-prediction-analysis.streamlit.app/)
 
 ## Code Description
 The code below is responsible for displaying the key metrics of the stock analysis:
@@ -63,12 +63,6 @@ if 'options' in analysis:
 - **Historical Volatility Plot:** Displays a plot representing historical volatility of the stock over time.
 - **Options Analysis (If Available):** Displays the nearest expiry date, put/call ratio, and implied volatility for options data.
 
-## License
-This project is licensed under the MIT License.
 
-## Contact
-For any inquiries, you can reach out to the project maintainer:
-- **Email:** your-email@example.com
-- **GitHub:** [your-github-profile](https://github.com/your-github-profile)
 
 Feel free to contribute by submitting issues or pull requests.
